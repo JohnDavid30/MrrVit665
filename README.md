@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4" alt="Discord.js" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/220px-Repl.it_logo.svg.png" alt="Repl.it" height="50" />
 <img style="margin: 10px" src="https://camo.githubusercontent.com/27480c90b7f92ea1405594b9e98e151b776c0830e3bb2d80b92656c342bfdf09/68747470733a2f2f692e696d6775722e636f6d2f4c775364416c452e706e67" alt="vscode" height="50" />  
-</div>
+</div> 
 
-</td><td valign="top" width="33%"> 
+</td></tr></table> 
 
 <br/>  
 
