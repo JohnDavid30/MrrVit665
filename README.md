@@ -35,14 +35,12 @@ Here are some ideas to get you started:
 
 <br/>  
 
-
+<div align="center">
 ## Languages and Tools:  
 <table><tr><td valign="top" width="33%">
 
 
-
-### Coding 
-<div align="center">  
+  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4" alt="Discord.js" height="50" />
