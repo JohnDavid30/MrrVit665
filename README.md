@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media.discordapp.net/attachments/842229048754044978/861441101540622346/received_781287452569482.gif" align="center" style="width: 100%" />
 </div>  
   
 
