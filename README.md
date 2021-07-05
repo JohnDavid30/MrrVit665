@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <br/>  
 
 <div align="center">
-## Languages and Tools:  
-<table><tr><td valign="top" width="33%">
+Languages and Tools:  
+<table><tr><td valign="top" width="40%">
 
 
   
