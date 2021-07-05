@@ -35,21 +35,18 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<div align="center">
 ## Languages and Tools:
-  
 
-  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4" alt="Discord.js" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/220px-Repl.it_logo.svg.png" alt="Repl.it" height="50" />
-<img style="margin: 10px" src="https://camo.githubusercontent.com/27480c90b7f92ea1405594b9e98e151b776c0830e3bb2d80b92656c342bfdf09/68747470733a2f2f692e696d6775722e636f6d2f4c775364416c452e706e67" alt="vscode" height="50" />  
-</div> 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="node.js" width="28px" src="https://i.imgur.com/tYLFZBh.png" /> 
+<img align="left" alt="jsdom" width="26px" src="https://imgur.com/znELr8P.png" />
 
-</td></tr></table> 
+<br />
+<br />
 
-<br/>  
+---  
 
 ## Connect with me  
 <div align="center">
