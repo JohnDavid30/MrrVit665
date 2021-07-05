@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FxT9IgzoKnwFNmISR8I%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fjavascript&tbnid=TKhmFhaduO6FzM&vet=12ahUKEwjlp9bZ-MrxAhXmEbcAHRdYD3MQMygJegUIARC3Ag..i&docid=vSIpYIsHAX4fOM&w=420&h=375&q=JavaScript%20logo%20gif&client=ms-android-oppo-rev1&ved=2ahUKEwjlp9bZ-MrxAhXmEbcAHRdYD3MQMygJegUIARC3Ag" align="center" style="width: 100%" />
+<img src="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966" align="center" style="width: 100%" />
 </div>  
   
 
