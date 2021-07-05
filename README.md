@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://github.com/MrrVit665/MrrVit665/issues/1" align="center" style="width: 100%" />
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FxT9IgzoKnwFNmISR8I%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fjavascript&tbnid=TKhmFhaduO6FzM&vet=12ahUKEwjlp9bZ-MrxAhXmEbcAHRdYD3MQMygJegUIARC3Ag..i&docid=vSIpYIsHAX4fOM&w=420&h=375&q=JavaScript%20logo%20gif&client=ms-android-oppo-rev1&ved=2ahUKEwjlp9bZ-MrxAhXmEbcAHRdYD3MQMygJegUIARC3Ag" align="center" style="width: 100%" />
 </div>  
   
 
