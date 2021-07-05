@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/Cedric2008"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric2008&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/MrrVit665?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric2008&amp;layout=compact" alt="Top Langs"></a></p></div>  
   
 ## Projects  
 You must checkout these projects!!<br/><br/>
