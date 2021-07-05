@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <a href="https://origamicompanybuildinstruc.weebly.com/" target="_blank">
 <img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Website style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.gg/WRkpVNBad6" target="_blank">
+<a href="https://discord.gg/naUJjDSf8E" target="_blank">
 <img src=https://img.shields.io/badge/DiscordServer-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=Discord Server style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -90,12 +90,12 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JohnDavid#0009&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JohnDavid&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/MrrVit665?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric2008&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/MrrVit665?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDavid&amp;layout=compact" alt="Top Langs"></a></p></div>  
   
 ## Projects  
 You must checkout these projects!!<br/><br/>
