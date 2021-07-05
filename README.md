@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm Cedric2008, a discord bot coder since Feb 2021</div>  
+### <div align="center">I'm JohnDavid, a discord bot coder since Feb 2021</div>  
   
 
 - 🔭 I’m currently working on my bot, Pinguino.  
