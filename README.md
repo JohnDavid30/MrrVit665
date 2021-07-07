@@ -71,7 +71,9 @@ Here are some ideas to get you started:
 <br/>  
 
 <div align="center">
-<p><a href="https://i.imgur.com/tYLFZBh.png"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDavid&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://youtube.com/UltraX1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimX32&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>  
   
 ## Projects  
 You must checkout these projects!!<br/><br/>
