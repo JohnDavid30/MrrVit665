@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my bot, Pinguino.  
   
 
-- 🌱 I’m currently coding in Node.js & Discord.js. (I work in repl.it)  
+- 🌱 I’m currently coding in Node.js & Discord.js. (I work in repl.it Glitch and VSCode)  
   
 
 - ❓  I am in love with coding Discord Bots!
