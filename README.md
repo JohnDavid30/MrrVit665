@@ -66,10 +66,9 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrrVit665&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="center" /></div>  
-
-<br/>  
-
+<a style="text-decoration: none;" href="https://youtube.com/UltraX1">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=KarimX32&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
 <div align="center">
 <p><a href="https://discord.gg/naUJjDSf8E">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrrVit665&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
