@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 <br/>  
 
 <div align="center">
-<p><a href="https://youtube.com/UltraX1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimX32&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+<p><a href="https://discord.gg/naUJjDSf8E">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrrVit665&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>  
   
 ## Projects  
