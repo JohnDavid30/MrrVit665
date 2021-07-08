@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 <br/>  
 ## My Discord Bot Project
-[![erenbot](https://cdn.discordapp.com/emojis/848960908281511966.png?v=1)](https://discord.com/api/oauth2/authorize?client_id=796578809360547891&permissions=4294967287&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fredirect&scope=bot%20applications.commands)
+<a [![erenbot](https://cdn.discordapp.com/emojis/848960908281511966.png?v=1)](https://discord.com/api/oauth2/authorize?client_id=796578809360547891&permissions=4294967287&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fredirect&scope=bot%20applications.commands)
 [![royalbot](https://cdn.discordapp.com/emojis/862587471798599720.png?v=1)](https://discord.com/api/oauth2/authorize?client_id=787260574551375903&scope=bot&permissions=2146958847)
-
+<a/>
 ## Github Stats  
 <a style="text-decoration: none;" href="https://discord.gg/naUJjDSf8E">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=MrrVit665&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
