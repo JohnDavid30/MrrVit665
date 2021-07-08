@@ -77,5 +77,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrrVit665&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>  
   
-## Projects  
-You must checkout these projects!!<br/><br/>
+<br/><br/>
