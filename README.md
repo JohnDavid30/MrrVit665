@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 </a>
 <div align="center">
 <p><a href="https://discord.gg/naUJjDSf8E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrrVit665&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrrVit665&hide_border=true&theme=tokyonight" />
 </a>  
   
 <br/><br/>
