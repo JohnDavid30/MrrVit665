@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   
 ## My Discord Bot Project
 [![royalbot](https://cdn.discordapp.com/emojis/895605112922316800.png?v=1)](https://discord.com/api/oauth2/authorize?client_id=787260574551375903&scope=bot&permissions=2146958847)
-
+[![royale-music](https://cdn.discordapp.com/emojis/892729521013424169.png?v=1)](https://discord.com/oauth2/authorize?client_id=830383598330314812&permissions=36768832&scope=applications.commands%20bot)
 ## Github Stats  
 <a style="text-decoration: none;" href="https://discord.gg/naUJjDSf8E">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=MrrVit665&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
