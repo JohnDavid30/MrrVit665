@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <br/>
   
 ## My Discord Bot Project
-[![royalbot](https://cdn.discordapp.com/emojis/862587471798599720.png?v=1)](https://discord.com/api/oauth2/authorize?client_id=787260574551375903&scope=bot&permissions=2146958847)
+[![royalbot](https://cdn.discordapp.com/emojis/895605112922316800.png?v=1)](https://discord.com/api/oauth2/authorize?client_id=787260574551375903&scope=bot&permissions=2146958847)
 
 ## Github Stats  
 <a style="text-decoration: none;" href="https://discord.gg/naUJjDSf8E">
