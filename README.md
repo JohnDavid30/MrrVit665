@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 <br/>
   
 ## My Discord Bot Project
-[![royalbot](https://cdn.discordapp.com/emojis/895605112922316800.png?v=1)](https://discord.com/api/oauth2/authorize?client_id=787260574551375903&scope=bot&permissions=2146958847)
-[![royale-music](https://cdn.discordapp.com/emojis/895606147040550944.png?v=1)](https://discord.com/oauth2/authorize?client_id=830383598330314812&permissions=36768832&scope=applications.commands%20bot)
+[![royalbot](https://cdn.discordapp.com/emojis/913261614084534312.png?v=1&size=64)](https://discord.com/api/oauth2/authorize?client_id=787260574551375903&permissions=36768832&redirect_uri=https%3A%2F%2Fdiscord.gg%2FvJ6AKDkWfB&response_type=code&scope=bot%20guilds.join)
+[![royale-music](https://cdn.discordapp.com/emojis/913261654723158086.png?v=1&size=64)](https://discord.com/api/oauth2/authorize?client_id=906548352798306376&permissions=36768832&redirect_uri=https%3A%2F%2Fdiscord.gg%2FvJ6AKDkWfB&response_type=code&scope=bot%20guilds.join)
 ## Github Stats  
 <a style="text-decoration: none;" href="https://discord.gg/naUJjDSf8E">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=MrrVit665&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
