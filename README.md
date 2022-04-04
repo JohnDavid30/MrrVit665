@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center"><br>
   <a href="https://github.com/MrrVit665">
-    <img src="https://lanyard.cnrad.dev/api/396906512469196811"/>
+    <img src="https://media.discordapp.net/attachments/947175223621464144/951460103314354196/Picsart_22-03-09_18-49-59-227.jpg"/>
      </a>
 </p>    
 
