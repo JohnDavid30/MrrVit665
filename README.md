@@ -18,6 +18,7 @@ Here are some ideas to get you started:
      </a>
 </p>    
 ---
+
 ### <div align="center">I'm JohnDavid, a discord bot coder since Feb 2021</div>  
   
 
