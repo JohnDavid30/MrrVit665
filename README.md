@@ -12,11 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><br>
-  <a href="https://github.com/MrrVit665">
-    <img src="https://media.discordapp.net/attachments/947175223621464144/951460103314354196/Picsart_22-03-09_18-49-59-227.jpg"/>
-     </a>
-</p>    
+<div align="center" style"border-radius:15px">
+  <img src="https://media.discordapp.net/attachments/947175223621464144/951460103314354196/Picsart_22-03-09_18-49-59-227.jpg" style"width: 100%;border-radius:15px">
+</div>    
 
 
 ### <div align="center">I'm JohnDavid, a discord bot coder since Feb 2021</div>  
