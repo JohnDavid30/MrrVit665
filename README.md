@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://media.discordapp.net/attachments/947175223621464144/951460103314354196/Picsart_22-03-09_18-49-59-227.jpg"/>
      </a>
 </p>    
----
+
 
 ### <div align="center">I'm JohnDavid, a discord bot coder since Feb 2021</div>  
   
