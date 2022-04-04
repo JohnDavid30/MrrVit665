@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <a href="https://origamicompanybuildinstruc.weebly.com/" target="_blank">
 <img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Website style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.gg/naUJjDSf8E" target="_blank">
+<a href="https://discord.gg/25ANHZbMps" target="_blank">
 <img src=https://img.shields.io/badge/DiscordServer-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=Discord Server style="margin-bottom: 5px;" />
 </a>  
 </div>  
