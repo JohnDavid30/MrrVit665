@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 <p align="center"><br>
   <a href="https://github.com/MrrVit665">
-    <img src="https://lanyard.cnrad.dev/api/396906512469196811"/>
+    <img src="https://lanyard.cnrad.dev/api/862621966317912084"/>
      </a>
-</p>  
-<br><br>  
+</p>    
 
 ### <div align="center">I'm JohnDavid, a discord bot coder since Feb 2021</div>  
   
