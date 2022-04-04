@@ -34,18 +34,22 @@ Here are some ideas to get you started:
 
   
 
-<br/>  
-
-## Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="node.js" width="28px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<img align="left" alt="jsdom" width="26px" src="https://imgur.com/znELr8P.png" />
-
-<br />
-<br />
+<br><br>
+<p align="center">
+	<b>Languages & Frameworks</b>
+	<br>
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+	<br><br>
+	<b>My Github Stats</b><br>
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=NotJust9999&theme=dark&hide_border=true">
+	<br>
 
 ---  
 
