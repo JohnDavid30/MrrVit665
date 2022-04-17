@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ## <div align="center">I'm JohnDavid, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>    
   
 ## Skills
-[🔄🛠️] Reverse engineering
-[📚🌐] Experience with Javascript, HTML, C++, C#, Visual Basic (.NET), Lua
-[🖼️🥰] UI/UX design
-[🕹️🛠️] Game development (R🟥blox Platform)
-[📈💵] Cryptocurrency Mining & Trading @ NiceHash
+- [🔄🛠️] Reverse engineering
+- [📚🌐] Experience with Javascript, HTML, C++, C#, Visual Basic (.NET), Lua
+- [🖼️🥰] UI/UX design
+- [🕹️🛠️] Game development (R🟥blox Platform)
+- [📈💵] Cryptocurrency Mining & Trading @ NiceHash
   
 
 <br><br>
