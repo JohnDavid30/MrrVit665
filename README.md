@@ -19,15 +19,12 @@ Here are some ideas to get you started:
 
 ## <div align="center">I'm JohnDavid, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>    
   
-***
-
-- 🔭 I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**](https://discord.gg/25ANHZbMps)  
-  
-
-- 🌱 I’m currently coding in Node.js & Discord.js. (I work in JavaScript Typescript and C# More 10+)  
-  
-
-- ❓  I am in love with coding Discord Bots!
+## Skills
+[🔄🛠️] Reverse engineering
+[📚🌐] Experience with Javascript, HTML, C++, C#, Visual Basic (.NET), Lua
+[🖼️🥰] UI/UX design
+[🕹️🛠️] Game development (R🟥blox Platform)
+[📈💵] Cryptocurrency Mining & Trading @ NiceHash
   
 
 <br><br>
