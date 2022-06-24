@@ -59,9 +59,10 @@ Here are some ideas to get you started:
 
 <br/>
   
-## My Discord Bot Project
-[![royalbot](https://cdn.discordapp.com/emojis/913261614084534312.png?v=1&size=64)](https://discord.com/api/oauth2/authorize?client_id=787260574551375903&permissions=36768832&redirect_uri=https%3A%2F%2Fdiscord.gg%2FvJ6AKDkWfB&response_type=code&scope=bot%20guilds.join)
-[![royale-music](https://cdn.discordapp.com/emojis/913261654723158086.png?v=1&size=64)](https://discord.com/api/oauth2/authorize?client_id=906548352798306376&permissions=36768832&redirect_uri=https%3A%2F%2Fdiscord.gg%2FvJ6AKDkWfB&response_type=code&scope=bot%20guilds.join)
+## My NPM Project
+<p align="center">
+  <a href="https://nodei.co/npm/mocylink/"><img src="https://nodei.co/npm/mocylink.png?downloads=true&downloadRank=true&stars=true"></a>
+</p>
 ## Github Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrrVit665&theme=dark&hide_border=true">  
 <a style="text-decoration: none;" href="https://discord.gg/naUJjDSf8E">
