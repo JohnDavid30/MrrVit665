@@ -63,6 +63,10 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://nodei.co/npm/mocylink/"><img src="https://nodei.co/npm/mocylink.png?downloads=true&downloadRank=true&stars=true"></a>
 </p>
+<p>
+<a  href="https://nodei.co/npm/mocy/"><img  src="https://nodei.co/npm/mocy.png?downloads=true&stars=true"  alt="NPM info"  /></a>
+
+</p>
 ## Github Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrrVit665&theme=dark&hide_border=true">  
 <a style="text-decoration: none;" href="https://discord.gg/naUJjDSf8E">
