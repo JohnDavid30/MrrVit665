@@ -60,8 +60,9 @@ Here are some ideas to get you started:
 <br/>
   
 ## My NPM Project
-<p align="center">
-  <a href="https://nodei.co/npm/mocylink/"><img src="https://nodei.co/npm/mocylink.png?downloads=true&downloadRank=true&stars=true"></a>
+<p>
+<a  href="https://nodei.co/npm/mocylink/"><img  src="https://nodei.co/npm/mocylink.png?downloads=true&stars=true"  alt="NPM info"  /></a>
+
 </p>
 <p>
 <a  href="https://nodei.co/npm/mocy/"><img  src="https://nodei.co/npm/mocy.png?downloads=true&stars=true"  alt="NPM info"  /></a>
